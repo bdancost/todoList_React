@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-v18.0.0-blue" alt="React Version"/>
   <img src="https://img.shields.io/badge/Status-Completed-green" alt="Project Status"/>
-  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License"/>
 </p>
 
 O **Todo App** é uma aplicação web construída com **React** para gerenciar tarefas diárias de forma prática e organizada. Com funcionalidades completas, o app permite adicionar, buscar, filtrar, ordenar e gerenciar tarefas com facilidade. 
