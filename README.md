@@ -59,7 +59,7 @@ O **Todo App** é uma aplicação web construída com **React** para gerenciar t
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/todo-app.git
+   git clone https://github.com/bdancost/todoList_React.git
    cd todo-app
    ```
 
@@ -128,10 +128,6 @@ Sinta-se à vontade para entrar em contato no meu [LinkedIn](https://www.linkedi
 
 ---
 
-## 📝 **Licença**
-Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
-
----
 
 ## 🌟 **Se você gostou do projeto, não esqueça de dar uma estrela no repositório!** 🌟
 
