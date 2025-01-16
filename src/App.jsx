@@ -6,26 +6,7 @@ import Filter from "./components/Filter";
 import "./App.css";
 
 function App() {
-  const [todos, setTodos] = useState([
-    {
-      id: 1,
-      text: "Learn React",
-      category: "Work",
-      isCompleted: false,
-    },
-    {
-      id: 2,
-      text: "Learn Vue",
-      category: "Pessoal",
-      isCompleted: false,
-    },
-    {
-      id: 3,
-      text: "Learn Angular",
-      category: "Studies",
-      isCompleted: false,
-    },
-  ]);
+  const [todos, setTodos] = useState([]);
 
   const [search, setSearch] = useState("");
 
